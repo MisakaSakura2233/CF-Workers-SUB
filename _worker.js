@@ -10,7 +10,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
 let MainData = `
-oiMC4xWCBIaW5ldCBUYWl3YW4gMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
 `
 
 //请将机场订阅链接填入上方
